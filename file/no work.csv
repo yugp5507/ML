@@ -1,0 +1,7 @@
+Order Date,Customer Name,Segment,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Profit
+,,,,,,,,,,,
+11-08-2016,#N/A,Consumer,Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,41.9136
+11-08-2016,,#N/A,#N/A,Kentucky,42420,South,Furniture,Chairs,731.94,3,219.582
+06-12-2016,#_NA,#N/A,#N/A,California,90036,West,Office Supplies,Labels,14.62,2,6.8714
+10-11-2015,Sean O'Donnell,Consumer,#na,Florida,33311,South,Furniture,Tables,957.5775,5,-383.031
+10-11-2015,Sean O'Donnell,apple,Fort Lauderdale,Florida,33311,South,Office Supplies,Storage,22.368,2,2.5164
